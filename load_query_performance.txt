@@ -1,0 +1,186 @@
+SQL Query : Load data local infile
+Results:
+
+File : apparel.tsv, Size on disk : 862M
+Query OK, 5906333 rows affected (38.17 sec)
+Records: 5906333  Deleted: 0  Skipped: 0  Warnings: 0
+
+File : automotive.tsv, Size on disk : 560M
+Query OK, 3514942 rows affected (23.65 sec)
+Records: 3514942  Deleted: 0  Skipped: 0  Warnings: 0
+
+File : baby.tsv, Size on disk : 257M
+Query OK, 1752932 rows affected (11.45 sec)
+Records: 1752932  Deleted: 0  Skipped: 0  Warnings: 0
+
+File : beauty.tsv, Size on disk : 808M
+Query OK, 5115666 rows affected (34.54 sec)
+Records: 5115666  Deleted: 0  Skipped: 0  Warnings: 0
+
+File : books_00.tsv, Size on disk : 1.5G
+Query OK, 10319090 rows affected (1 min 7.78 sec)
+Records: 10319090  Deleted: 0  Skipped: 0  Warnings: 0
+
+File : books_01.tsv, Size on disk : 896M
+Query OK, 6106719 rows affected (39.83 sec)
+Records: 6106719  Deleted: 0  Skipped: 0  Warnings: 0
+
+File : books_02.tsv, Size on disk : 445M
+Query OK, 3105520 rows affected (20.20 sec)
+Records: 3105520  Deleted: 0  Skipped: 0  Warnings: 0
+
+File : camera.tsv, Size on disk : 324M
+Query OK, 1801974 rows affected (12.65 sec)
+Records: 1801974  Deleted: 0  Skipped: 0  Warnings: 0
+
+File : digital_ebook_00.tsv, Size on disk : 2.0G
+Query OK, 12520722 rows affected (1 min 23.64 sec)
+Records: 12520722  Deleted: 0  Skipped: 0  Warnings: 0
+
+File : digital_ebook_01.tsv, Size on disk : 768M
+Query OK, 5101693 rows affected (34.12 sec)
+Records: 5101693  Deleted: 0  Skipped: 0  Warnings: 0
+
+File : digital_music.tsv, Size on disk : 220M
+Query OK, 1688884 rows affected (10.64 sec)
+Records: 1688884  Deleted: 0  Skipped: 0  Warnings: 0
+
+File : digital_software.tsv, Size on disk : 15M
+Query OK, 102084 rows affected (0.73 sec)
+Records: 102084  Deleted: 0  Skipped: 0  Warnings: 0
+
+File : digital_video.tsv, Size on disk : 518M
+Query OK, 4057147 rows affected (25.25 sec)
+Records: 4057147  Deleted: 0  Skipped: 0  Warnings: 0
+
+File : digital_video_games.tsv, Size on disk : 20M
+Query OK, 145431 rows affected (1.00 sec)
+Records: 145431  Deleted: 0  Skipped: 0  Warnings: 0
+
+File : electronics.tsv, Size on disk : 534M
+Query OK, 3093869 rows affected (21.80 sec)
+Records: 3093869  Deleted: 0  Skipped: 0  Warnings: 0
+
+File : furniture.tsv, Size on disk : 123M
+Query OK, 792113 rows affected (5.49 sec)
+Records: 792113  Deleted: 0  Skipped: 0  Warnings: 0
+
+File : gift_card.tsv, Size on disk : 20M
+Query OK, 149086 rows affected (1.03 sec)
+Records: 149086  Deleted: 0  Skipped: 0  Warnings: 0
+
+File : grocery.tsv, Size on disk : 355M
+Query OK, 2402458 rows affected (16.17 sec)
+Records: 2402458  Deleted: 0  Skipped: 0  Warnings: 0
+
+File : health_personal_care.tsv, Size on disk : 946M
+Query OK, 5331449 rows affected (38.17 sec)
+Records: 5331449  Deleted: 0  Skipped: 0  Warnings: 0
+
+File : home.tsv, Size on disk : 966M
+Query OK, 6221559 rows affected (43.52 sec)
+Records: 6221559  Deleted: 0  Skipped: 0  Warnings: 0
+
+File : home_entertainment.tsv, Size on disk : 118M
+Query OK, 705889 rows affected (5.06 sec)
+Records: 705889  Deleted: 0  Skipped: 0  Warnings: 0
+
+File : home_improvement.tsv, Size on disk : 452M
+Query OK, 2634781 rows affected (18.23 sec)
+Records: 2634781  Deleted: 0  Skipped: 0  Warnings: 0
+
+File : jewelry.tsv, Size on disk : 291M
+Query OK, 1767753 rows affected (13.37 sec)
+Records: 1767753  Deleted: 0  Skipped: 0  Warnings: 0
+
+File : kitchen.tsv, Size on disk : 745M
+Query OK, 4880466 rows affected (32.65 sec)
+Records: 4880466  Deleted: 0  Skipped: 0  Warnings: 0
+
+File : lawn_and_garden.tsv, Size on disk : 423M
+Query OK, 2557288 rows affected (17.35 sec)
+Records: 2557288  Deleted: 0  Skipped: 0  Warnings: 0
+
+File : luggage.tsv, Size on disk : 52M
+Query OK, 348657 rows affected (2.36 sec)
+Records: 348657  Deleted: 0  Skipped: 0  Warnings: 0
+
+File : major_appliances.tsv, Size on disk : 17M
+Query OK, 96901 rows affected (0.72 sec)
+Records: 96901  Deleted: 0  Skipped: 0  Warnings: 0
+
+File : mobile_apps.tsv, Size on disk : 576M
+Query OK, 5033376 rows affected (30.19 sec)
+Records: 5033376  Deleted: 0  Skipped: 0  Warnings: 0
+
+File : mobile_electronics.tsv, Size on disk : 22M
+Query OK, 104975 rows affected (0.86 sec)
+Records: 104975  Deleted: 0  Skipped: 0  Warnings: 0
+
+File : music.tsv, Size on disk : 561M
+Query OK, 4751577 rows affected (28.73 sec)
+Records: 4751577  Deleted: 0  Skipped: 0  Warnings: 0
+
+File : musical_instrument.tsv, Size on disk : 150M
+Query OK, 904765 rows affected (6.18 sec)
+Records: 904765  Deleted: 0  Skipped: 0  Warnings: 0
+
+File : office_products.tsv, Size on disk : 463M
+Query OK, 2642434 rows affected (19.05 sec)
+Records: 2642434  Deleted: 0  Skipped: 0  Warnings: 0
+
+File : outdoors.tsv, Size on disk : 348M
+Query OK, 2302401 rows affected (16.11 sec)
+Records: 2302401  Deleted: 0  Skipped: 0  Warnings: 0
+
+File : pc.tsv, Size on disk : 1.2G
+Query OK, 6908554 rows affected (47.86 sec)
+Records: 6908554  Deleted: 0  Skipped: 0  Warnings: 0
+
+File : personal_care.tsv, Size on disk : 15M
+Query OK, 85981 rows affected (0.65 sec)
+Records: 85981  Deleted: 0  Skipped: 0  Warnings: 0
+
+File : pet_products.tsv, Size on disk : 418M
+Query OK, 2643619 rows affected (17.67 sec)
+Records: 2643619  Deleted: 0  Skipped: 0  Warnings: 0
+
+File : shoes.tsv, Size on disk : 590M
+Query OK, 4366916 rows affected (27.53 sec)
+Records: 4366916  Deleted: 0  Skipped: 0  Warnings: 0
+
+File : software.tsv, Size on disk : 49M
+Query OK, 341931 rows affected (2.24 sec)
+Records: 341931  Deleted: 0  Skipped: 0  Warnings: 0
+
+File : sports.tsv, Size on disk : 728M
+Query OK, 4850360 rows affected (31.75 sec)
+Records: 4850360  Deleted: 0  Skipped: 0  Warnings: 0
+
+File : tools.tsv, Size on disk : 271M
+Query OK, 1741100 rows affected (11.65 sec)
+Records: 1741100  Deleted: 0  Skipped: 0  Warnings: 0
+
+File : toys.tsv, Size on disk : 683M
+Query OK, 4864249 rows affected (31.21 sec)
+Records: 4864249  Deleted: 0  Skipped: 0  Warnings: 0
+
+File : video.tsv, Size on disk : 49M
+Query OK, 380604 rows affected (2.44 sec)
+Records: 380604  Deleted: 0  Skipped: 0  Warnings: 0
+
+File : video_dvd.tsv, Size on disk : 669M
+Query OK, 5069140 rows affected (31.71 sec)
+Records: 5069140  Deleted: 0  Skipped: 0  Warnings: 0
+
+File : video_games.tsv, Size on disk : 237M
+Query OK, 1785997 rows affected (11.28 sec)
+Records: 1785997  Deleted: 0  Skipped: 0  Warnings: 0
+
+File : watches.tsv, Size on disk : 151M
+Query OK, 960872 rows affected (6.40 sec)
+Records: 960872  Deleted: 0  Skipped: 0  Warnings: 0
+
+File : wireless.tsv, Size on disk : 1.8G
+Query OK, 9002021 rows affected (1 min 7.60 sec)     
+Records: 9002021  Deleted: 0  Skipped: 0  Warnings: 0
